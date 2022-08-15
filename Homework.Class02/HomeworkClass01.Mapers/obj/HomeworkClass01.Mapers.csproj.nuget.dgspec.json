@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Mapers\\HomeworkClass01.Mapers.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Domain\\HomeworkClass01.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Domain\\HomeworkClass01.Domain.csproj",
+        "projectName": "HomeworkClass01.Domain",
+        "projectPath": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Domain\\HomeworkClass01.Domain.csproj",
+        "packagesPath": "C:\\Users\\Darko Nikolikj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko Nikolikj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Mapers\\HomeworkClass01.Mapers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Mapers\\HomeworkClass01.Mapers.csproj",
+        "projectName": "HomeworkClass01.Mapers",
+        "projectPath": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Mapers\\HomeworkClass01.Mapers.csproj",
+        "packagesPath": "C:\\Users\\Darko Nikolikj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Mapers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko Nikolikj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Domain\\HomeworkClass01.Domain.csproj": {
+                "projectPath": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Domain\\HomeworkClass01.Domain.csproj"
+              },
+              "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.ViewModels\\HomeworkClass01.DTOs.csproj": {
+                "projectPath": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.ViewModels\\HomeworkClass01.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.ViewModels\\HomeworkClass01.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.ViewModels\\HomeworkClass01.DTOs.csproj",
+        "projectName": "HomeworkClass01.DTOs",
+        "projectPath": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.ViewModels\\HomeworkClass01.DTOs.csproj",
+        "packagesPath": "C:\\Users\\Darko Nikolikj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko Nikolikj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Domain\\HomeworkClass01.Domain.csproj": {
+                "projectPath": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01.Domain\\HomeworkClass01.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

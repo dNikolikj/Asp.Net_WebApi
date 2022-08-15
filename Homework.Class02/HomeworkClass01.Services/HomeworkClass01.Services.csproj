@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HomeworkClass01.DataAccess\HomeworkClass01.DataAccess.csproj" />
+    <ProjectReference Include="..\HomeworkClass01.Domain\HomeworkClass01.Domain.csproj" />
+    <ProjectReference Include="..\HomeworkClass01.Mapers\HomeworkClass01.Mapers.csproj" />
+    <ProjectReference Include="..\HomeworkClass01.ViewModels\HomeworkClass01.DTOs.csproj" />
+  </ItemGroup>
+
+</Project>

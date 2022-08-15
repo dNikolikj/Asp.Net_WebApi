@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "aNM0QMaOxMUo7jQy6HqjXGd4HYEhZzlD6ggkEQiuTLc=",
+  "Source": "HomeworkClass01_HomeworkClass02_WebApi",
+  "BasePath": "_content/HomeworkClass01_HomeworkClass02_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HomeworkClass01_HomeworkClass02_WebApi\\wwwroot",
+      "Source": "HomeworkClass01_HomeworkClass02_WebApi",
+      "ContentRoot": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01_HomeworkClass02_WebApi\\wwwroot\\",
+      "BasePath": "_content/HomeworkClass01_HomeworkClass02_WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01_HomeworkClass02_WebApi\\wwwroot\\dummy.html",
+      "SourceId": "HomeworkClass01_HomeworkClass02_WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01_HomeworkClass02_WebApi\\wwwroot\\",
+      "BasePath": "_content/HomeworkClass01_HomeworkClass02_WebApi",
+      "RelativePath": "dummy.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dummy.html"
+    },
+    {
+      "Identity": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01_HomeworkClass02_WebApi\\wwwroot\\dummy.js",
+      "SourceId": "HomeworkClass01_HomeworkClass02_WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Darko Nikolikj\\Desktop\\seavus\\Aps.Net.WebAPI\\Asp.WebApi.Homeworks\\Homework.Class02\\HomeworkClass01_HomeworkClass02_WebApi\\wwwroot\\",
+      "BasePath": "_content/HomeworkClass01_HomeworkClass02_WebApi",
+      "RelativePath": "dummy.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dummy.js"
+    }
+  ]
+}

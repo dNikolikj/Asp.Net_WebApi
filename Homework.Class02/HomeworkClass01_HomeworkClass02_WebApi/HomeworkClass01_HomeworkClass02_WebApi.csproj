@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HomeworkClass01.DataAccess\HomeworkClass01.DataAccess.csproj" />
+    <ProjectReference Include="..\HomeworkClass01.Domain\HomeworkClass01.Domain.csproj" />
+    <ProjectReference Include="..\HomeworkClass01.Helpers\HomeworkClass01.Helpers.csproj" />
+    <ProjectReference Include="..\HomeworkClass01.Mapers\HomeworkClass01.Mapers.csproj" />
+    <ProjectReference Include="..\HomeworkClass01.Services\HomeworkClass01.Services.csproj" />
+    <ProjectReference Include="..\HomeworkClass01.ViewModels\HomeworkClass01.DTOs.csproj" />
+  </ItemGroup>
+
+</Project>
